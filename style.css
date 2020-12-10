@@ -1,0 +1,67 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+.navbar .nav-item .nav-link {
+	color: black;
+	font-size: 16px;
+
+}
+
+.navbar .nav-item .nav-link:hover {
+	color: orange
+}
+
+.fondo {
+	background: #F8F6F3;
+}
+
+.titulo {
+	color: orange;
+	font-weight: 700;
+	font-size: 30px
+}
+
+.sub-titulo {
+	color: black;
+	font-weight: 400;
+	font-size: 18px;
+}
+
+.fondo2 {
+	background-color: orange;
+}
+
+.links a {
+	color: black;
+}
+
+.link {
+	color: black;
+	font-weight: 700;
+	font-size: 22px;
+
+}
+
+.link:hover {
+	color: orange;
+	text-decoration: none;
+}
+
+.links a:hover {
+	color: orange;
+	text-decoration: none;
+}
+
+.alt {
+	font-weight: 700;
+	font-size: 18px;
+}
+
+
+.footer {
+	background-color: gray;
+}
